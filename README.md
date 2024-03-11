@@ -18,8 +18,7 @@ Este é um projeto desenvolvido como parte do Desafio do Curso de Lógica de Pro
 
 ## Como Jogar
 
-## 🕹 Test here
-
+🕹 Test here
 https://stedelboux.github.io/jogo-do-numero-secreto/
 
 ## Contribuindo
